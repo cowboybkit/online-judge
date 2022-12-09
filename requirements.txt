@@ -39,7 +39,3 @@ django-admin-sortable2<2
 icalendar
 # This is a celery dependency whose latest major version is breaking everything.
 importlib-metadata<5
-boto3
-django-anymail[amazon_ses]
-django-anymail[mailgun]
-django-amazon-ses
